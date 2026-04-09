@@ -217,7 +217,4 @@ ORDER BY total_customers DESC;
 --   5. GROUP BY, HAVING
 --   6. JOIN
 --   7. CASE WHEN
---
--- Once comfortable with these, move to
--- subqueries, CTEs, and window functions.
 -- -------------------------------------------
